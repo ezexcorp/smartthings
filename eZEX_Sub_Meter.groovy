@@ -1,7 +1,11 @@
 /**
  *  eZEX C2O Sub-Meter
  *
- *  Copyright 2017 Ezex Corp
+ *  Copyright 
+ *  github: Euiho Lee (flutia)
+ *  email: flutia@naver.com
+ *  Date: 2017-09-11
+ *  Copyright flutia and stsmarthome (cafe.naver.com/stsmarthome/) and eZEX Corp.
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
